@@ -1,4 +1,4 @@
-const doh = 'https://dns.nextdns.io/5bb782/Mahan's%20pages'
+const doh = 'https://dns.nextdns.io/5bb782'
 const dohjson = 'https://security.cloudflare-dns.com/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
